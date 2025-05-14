@@ -1,5 +1,2 @@
-# Portfolio
-Portfolio
-```go to 
-https://techbharathi.site
-```
+# bharathi-portfolio
+Bharathi's personal portfolio built with React & Tailwind
